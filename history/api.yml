@@ -1,7 +1,7 @@
-url: https://api.sonixapp.com/readyz
+url: https://api.sonixapp.com/graphql
 status: up
 code: 200
-responseTime: 406
-lastUpdated: 2023-10-24T13:58:30.303Z
+responseTime: 543
+lastUpdated: 2023-10-24T14:05:24.832Z
 startTime: 2023-10-24T13:58:29.887Z
 generator: Upptime <https://github.com/upptime/upptime>
