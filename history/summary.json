@@ -37,22 +37,22 @@
   },
   {
     "name": "sonixapp.com",
-    "url": "https://sonixapp.comm",
-    "icon": "https://icons.duckduckgo.com/ip3/sonixapp.comm.ico",
+    "url": "https://sonixapp.com",
+    "icon": "https://icons.duckduckgo.com/ip3/sonixapp.com.ico",
     "slug": "sonixapp-com",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "status": "up",
+    "uptime": "76.99%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "76.99%",
+    "uptimeMonth": "76.99%",
+    "uptimeYear": "76.99%",
+    "time": 210,
+    "timeDay": 210,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-10-24": 0
+      "2023-10-24": 11
     }
   }
 ]
