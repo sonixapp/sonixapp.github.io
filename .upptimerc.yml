@@ -11,7 +11,7 @@ sites:
   - name: join.sonixapp.com
     url: https://join.sonixapp.com
   - name: sonixapp.com
-    url: https://sonixapp.comm
+    url: https://sonixapp.com
 
 status-website:
   cname: sonixapp.github.io
