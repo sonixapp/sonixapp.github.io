@@ -9,11 +9,11 @@ sites:
       - "Content-Type: application/json"
     body: '{"query":"{__typename}"}'
   - name: join.sonixapp.com
-    method: GET
     url: https://join.sonixapp.com
   - name: sonixapp.com
-    method: GET
     url: https://sonixapp.com
+  - name: test
+    url: https://sonixapp.com/testtesttest
 
 status-website:
   cname: sonixapp.github.io
