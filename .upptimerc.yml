@@ -2,16 +2,16 @@ owner: sonixapp
 repo: sonixapp.github.io
 
 sites:
-  - name: API
+  - name: api.sonixapp.com
     method: POST
     url: https://api.sonixapp.com/graphql
     headers:
       - "Content-Type: application/json"
     body: '{"query":"{__typename}"}'
-  - name: Join
+  - name: join.sonixapp.com
     method: GET
     url: https://join.sonixapp.com
-  - name: Website
+  - name: sonixapp.com
     method: GET
     url: https://sonixapp.com
 
