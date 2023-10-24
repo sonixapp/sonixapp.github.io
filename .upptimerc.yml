@@ -17,7 +17,8 @@ sites:
 
 status-website:
   cname: sonixapp.github.io
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: light
+  logoUrl: https://raw.githubusercontent.com/sonixapp/sonixapp.github.io/master/assets/sonix.jpeg
   name: Sonix
   introTitle: "SONIX is a voice chat that keeps things simple and straight to the point."
   introMessage: ""
