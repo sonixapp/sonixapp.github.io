@@ -2,15 +2,11 @@ owner: sonixapp
 repo: sonixapp.github.io
 
 sites:
-  - name: api.sonixapp.com
-    method: POST
-    url: https://api.sonixapp.com/graphql
-    headers:
-      - "Content-Type: application/json"
-    body: '{"query":"{__typename}"}'
-  - name: join.sonixapp.com
+  - name: API
+    url: https://api.sonixapp.com/health
+  - name: Join
     url: https://join.sonixapp.com
-  - name: sonixapp.com
+  - name: Website
     url: https://sonixapp.com
 
 status-website:
@@ -27,6 +23,3 @@ status-website:
       href: https://sonixapp.com
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
