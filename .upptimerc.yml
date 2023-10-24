@@ -1,23 +1,25 @@
-# Change these first
-owner: sonixapp # Your GitHub organization or username, where this repository lives
-repo: sonixapp.github.io # The name of this repository
+owner: sonixapp
+repo: sonixapp.github.io
 
 sites:
   - name: API
-    url: https://api.sonixapp.com/readyz
+    method: POST
+    url: https://api.sonixapp.com/graphql
+    headers:
+      - "Content-Type: application/json"
+    body: '{"query":"{__typename}"}'
   - name: Join
+    method: GET
     url: https://join.sonixapp.com
   - name: Website
+    method: GET
     url: https://sonixapp.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: sonixapp.github.io
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sonix
-  introTitle: ""
+  introTitle: "SONIX is a voice chat that keeps things simple and straight to the point."
   introMessage: ""
   navbar:
     - title: Status
