@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sonixapp.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 481,
+    "timeDay": 502,
     "timeWeek": 430,
-    "timeMonth": 373,
+    "timeMonth": 376,
     "timeYear": 375,
-    "dailyMinutesDown": {
-      "2023-12-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Join",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 309,
-    "timeWeek": 274,
-    "timeMonth": 300,
-    "timeYear": 272,
+    "time": 274,
+    "timeDay": 381,
+    "timeWeek": 273,
+    "timeMonth": 310,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 356,
-    "timeDay": 81,
-    "timeWeek": 258,
-    "timeMonth": 352,
-    "timeYear": 356,
+    "time": 353,
+    "timeDay": 205,
+    "timeWeek": 277,
+    "timeMonth": 356,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2023-10-24": 21
     }
