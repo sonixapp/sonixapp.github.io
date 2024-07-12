@@ -4,19 +4,19 @@
     "url": "https://api.sonixapp.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.sonixapp.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 408,
-    "timeDay": 2887,
-    "timeWeek": 1412,
-    "timeMonth": 652,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 425,
+    "timeDay": 3301,
+    "timeWeek": 1735,
+    "timeMonth": 779,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2024-07-12": 22
+      "2024-07-12": 61
     }
   },
   {
