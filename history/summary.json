@@ -4,18 +4,20 @@
     "url": "https://api.sonixapp.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.sonixapp.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 372,
-    "timeWeek": 421,
-    "timeMonth": 345,
-    "timeYear": 371,
-    "dailyMinutesDown": {}
+    "time": 389,
+    "timeDay": 2887,
+    "timeWeek": 1044,
+    "timeMonth": 508,
+    "timeYear": 389,
+    "dailyMinutesDown": {
+      "2024-07-12": 0
+    }
   },
   {
     "name": "Join",
