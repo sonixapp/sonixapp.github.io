@@ -6,15 +6,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
-    "time": 425,
-    "timeDay": 3339,
-    "timeWeek": 1752,
-    "timeMonth": 791,
-    "timeYear": 425,
+    "time": 424,
+    "timeDay": 212,
+    "timeWeek": 1737,
+    "timeMonth": 783,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2024-07-12": 61
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 542,
-    "timeWeek": 479,
-    "timeMonth": 422,
+    "timeDay": 337,
+    "timeWeek": 477,
+    "timeMonth": 417,
     "timeYear": 375,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 302,
-    "timeDay": 475,
-    "timeWeek": 398,
-    "timeMonth": 291,
-    "timeYear": 302,
+    "time": 304,
+    "timeDay": 847,
+    "timeWeek": 504,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-10-24": 21
     }
