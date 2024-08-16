@@ -42,18 +42,19 @@
     "url": "https://sonixapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/sonixapp.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 67,
-    "timeWeek": 175,
-    "timeMonth": 391,
-    "timeYear": 314,
+    "time": 313,
+    "timeDay": 115,
+    "timeWeek": 173,
+    "timeMonth": 383,
+    "timeYear": 313,
     "dailyMinutesDown": {
+      "2024-08-16": 0,
       "2023-10-24": 21
     }
   }
