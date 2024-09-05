@@ -25,7 +25,7 @@
     "url": "https://join.sonixapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/join.sonixapp.com.ico",
     "slug": "join",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 479,
     "timeMonth": 433,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   },
   {
     "name": "Website",
