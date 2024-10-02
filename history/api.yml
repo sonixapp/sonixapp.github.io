@@ -1,7 +1,7 @@
 url: https://api.sonixapp.com/health
-status: down
-code: 503
-responseTime: 11218
-lastUpdated: 2024-10-02T11:34:19.728Z
+status: up
+code: 200
+responseTime: 382
+lastUpdated: 2024-10-02T11:41:30.680Z
 startTime: 2023-10-24T15:07:32.469Z
 generator: Upptime <https://github.com/upptime/upptime>
